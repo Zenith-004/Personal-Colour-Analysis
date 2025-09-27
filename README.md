@@ -58,12 +58,12 @@ pip install opencv-python dlib scikit-image numpy
 
 ---
 
-### Step 3: Download dlib Shape Predictor Model [For reference purpose you can skip this step]
-[Note: ALready provide in the Github can Skip this step]
+### Step 3: Download dlib Shape Predictor Model
+[Note: Download will automatically start in 5 Sec after cliking link]
 
 The `color_analysis.py` script needs a pre-trained facial landmark detector.
 
-1. Download **[shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)**
+1. Download **[shape_predictor_68_face_landmarks.dat]([http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2](http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2))**
 2. Extract it (use [7-Zip](https://www.7-zip.org/) or WinRAR).
 3. Place the `.dat` file in the same directory as your Python scripts.
 
